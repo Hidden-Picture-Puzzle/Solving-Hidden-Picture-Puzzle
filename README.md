@@ -42,7 +42,7 @@ Create a new notebook or open an existing one.
 ### 2. Clone the Repository
 
 ```bash
-!git clone https://github.com/USERNAME/Solving-Hidden-Picture-Puzzle.git
+!git clone https://github.com/Hidden-Picture-Puzzle/Solving-Hidden-Picture-Puzzle.git
 %cd REPOSITORY_NAME
 !ls
 ```
