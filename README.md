@@ -64,6 +64,9 @@ Please check all required folders, including the dataset, are cloned into the Co
 ### 4. Run the Demo
 
 Open `demo.ipynb` and run **all cells**.
+Follow these steps.
+> File -> Open Notebook -> GitHub -> Enter a GitHub URL "https://github.com/Hidden-Picture-Puzzle/Solving-Hidden-Picture-Puzzle.git" > Use `demo.ipynb` 
+
 
 The demo uses **relative paths based on the repository root** and does not require Google Drive.
 
