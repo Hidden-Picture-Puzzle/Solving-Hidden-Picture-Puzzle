@@ -38,6 +38,7 @@ The goal of the project is to automatically identify and solve hidden picture pu
 ## Run the Demo
 
 To open and run the demo notebook (demo.ipynb) in Colab, follow these steps:
+* Open a new colaboratory page
 * Go to File → Open Notebook → GitHub
 * Enter the repository URL:
 
