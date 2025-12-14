@@ -1,0 +1,9 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ce-02,needle,"88, 262",16.19,0.1955
+ce-02,heart,"14, 25",263.36,0.0000
+ce-02,glove,"129, 643",2.12,0.7827
+ce-02,hockey stick,"582, 313",12.21,0.1707
+ce-02,envelope,"313, 360",212.82,0.0000
+ce-02,cap,"445, 550",493.95,0.0000
+ce-02,snowman,"389, 457",1.12,0.3855
+ce-02,lightening,"569, 462",7.07,0.4036

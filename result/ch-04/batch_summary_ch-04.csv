@@ -1,0 +1,2 @@
+scene_id,n_templates,accuracy,matched,unmatched,total_accuracy,metrics_csv
+ch-04,10,70.0,"paperboat, wateringcan, fox, hedgehog, cloud, cup, squirrel","umbrella, owl, snail",70.0,/content/drive/MyDrive/CV/eunna/results/ch-04/ch-04_detection_metrics.csv

@@ -1,0 +1,2 @@
+scene_id,n_templates,accuracy,matched,unmatched,total_accuracy,metrics_csv
+ch-13,9,77.77777777777779,"shovel, snorkel, kite, ball, racket, chair, watermelon","tube, sandcastle",77.77777777777779,/content/drive/MyDrive/CV/eunna/results/ch-13/ch-13_detection_metrics.csv

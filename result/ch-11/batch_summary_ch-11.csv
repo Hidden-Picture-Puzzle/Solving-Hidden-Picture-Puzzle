@@ -1,0 +1,2 @@
+scene_id,n_templates,accuracy,matched,unmatched,total_accuracy,metrics_csv
+ch-11,10,80.0,"pizza, whale, fish, dragonfly, ball, donut, rabbit, duck","butterfly, candy",80.0,/content/drive/MyDrive/CV/eunna/results/ch-11/ch-11_detection_metrics.csv

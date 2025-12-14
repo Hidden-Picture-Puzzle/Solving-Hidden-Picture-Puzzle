@@ -1,0 +1,2 @@
+scene_id,n_templates,accuracy,matched,unmatched,total_accuracy,metrics_csv
+ch-01,10,60.0,"human, bicycle, heart, apple, matryoshka, shoes","bear, bottle, guitar, chicken",60.0,/content/drive/MyDrive/CV/eunna/results/ch-01/ch-01_detection_metrics.csv
