@@ -22,7 +22,7 @@ The goal of the project is to automatically identify and solve hidden picture pu
 │       └── gh-ground-truth.csv  
 ├── result/
 │   ├── <scene_image>/             # One folder per scene image containing solving results
-│   └── batch_summary.csv
+│   └── batch_summary.csv          # Batch summary for 'ge', 'gh' category
 ├── test/
 │   └── *.(Jpg|jpg)                # Two test scene images
 ├── test_result/
@@ -35,32 +35,7 @@ The goal of the project is to automatically identify and solve hidden picture pu
 
 ## Quick Start (Google Colab – Recommended)
 
-### 1. Open Google Colab
-Create a new notebook or open an existing one.
-
-### 2. Clone the Repository
-
-```bash
-!git clone https://github.com/Hidden-Picture-Puzzle/Solving-Hidden-Picture-Puzzle.git
-%cd Solving-Hidden-Picture-Puzzle
-!ls
-```
-
-Please check all required folders, including the dataset, are cloned into the Colab environment.
-
----
-
-### 3. Install Requirements (if needed)
-
-```bash
-!pip install -r requirements.txt
-```
-
-> Most dependencies are available in the default Google Colab environment.
-
----
-
-### 4. Run the Demo
+## Run the Demo
 
 To open and run the demo notebook (demo.ipynb) in Colab, follow these steps:
 * Go to File → Open Notebook → GitHub
