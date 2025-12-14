@@ -1,0 +1,10 @@
+scene_id,n_templates,accuracy,matched,unmatched,total_accuracy,metrics_csv
+ge-01,11,36.36363636363637,"book, banana, worm, ladder","needle, bag, stick, triangle, watermelon, can, pencil",56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-01/ge-01_detection_metrics.csv
+ge-03,6,16.666666666666664,scissors,"book, glue, pencil, ruler, eraser",56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-03/ge-03_detection_metrics.csv
+ge-04,7,57.14285714285714,"frog, crab, mug, fish2","fish1, ring, toothbrush",56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-04/ge-04_detection_metrics.csv
+ge-05,7,42.857142857142854,"glasses, icecream1, hat","clam, icecream2, watermelon, flipflop",56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-05/ge-05_detection_metrics.csv
+ge-06,6,66.66666666666666,"acorn, hat, grape, spider","carrot, leaf",56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-06/ge-06_detection_metrics.csv
+ge-07,5,100.0,"icecream, brush, bird, watch, eggplant",,56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-07/ge-07_detection_metrics.csv
+ge-11,5,80.0,"cat, toothbrush, sprayer, doorknob",toothpaste,56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-11/ge-11_detection_metrics.csv
+ge-12,5,100.0,"snail, mushroom, shoe, lightbulb, pencil",,56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-12/ge-12_detection_metrics.csv
+ge-13,6,50.0,"duck, pie, hat","rollingpin, boot, pan",56.896551724137936,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/ge-13/ge-13_detection_metrics.csv

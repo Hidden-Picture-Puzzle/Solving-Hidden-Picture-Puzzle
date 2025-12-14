@@ -1,0 +1,2 @@
+scene_id,n_templates,accuracy,matched,unmatched,total_accuracy,metrics_csv
+gh-15,15,26.666666666666668,"bat, crown, saw, pennant","pie, candycane, toothbrush, baseball, mitten, heart, bread, mug, cracker, muffin, nail",26.666666666666668,/content/drive/MyDrive/Colab Notebooks/CV/jungyeon/CHAMFER/gh-15/gh-15_detection_metrics.csv
