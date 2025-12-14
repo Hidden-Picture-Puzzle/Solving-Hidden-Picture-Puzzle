@@ -19,8 +19,7 @@ The goal of the project is to automatically identify and solve hidden picture pu
 │       ├── ce-ground-truth.csv    
 │       ├── ch-ground-truth.csv
 │       ├── ge-ground-truth.csv
-│       ├── gh-ground-truth.csv  
-│       └── answer/                # Answer images to all category
+│       └── gh-ground-truth.csv  
 ├── result/
 │   ├── <scene_image>/             # One folder per scene image containing solving results
 │   ├── ge_batch_summary.csv       # Batch summary for 'ge' category
@@ -76,7 +75,6 @@ The demo uses **relative paths based on the repository root** and does not requi
 * **Ground truth (`dataset/ground-truth`)**:
 
   * ce/ch/ge/gh-ground-truth.csv: Annotation file
-  * Answer images for visualization and evaluation
 
 ---
 
