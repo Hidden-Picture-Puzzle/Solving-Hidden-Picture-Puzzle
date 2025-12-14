@@ -71,11 +71,11 @@ The demo uses **relative paths based on the repository root** and does not requi
 
 ## Dataset Overview
 
-* **Scene images (`dataset/scene`)**: Input hidden picture images
-* **Templates (`dataset/template`)**: Objects to be detected in scenes
-* **Ground truth (`dataset/ground_truth`)**:
+* **Scene images (`dataset/scenes`)**: Input hidden picture images
+* **Templates (`dataset/templates`)**: Objects to be detected in scenes
+* **Ground truth (`dataset/ground-truth`)**:
 
-  * `answers.csv`: Annotation file
+  * ce/ch/ge/gh-ground-truth.csv: Annotation file
   * Answer images for visualization and evaluation
 
 ---
@@ -86,7 +86,7 @@ The demo uses **relative paths based on the repository root** and does not requi
 * `test_result/` stores:
 
   * Solved test images
-  * `metrics.csv`, which reports accuracy and evaluation metrics computed from the test results
+  * `batch_summary.csv`, which reports accuracy and evaluation metrics computed from the test results
 
 ---
 
@@ -126,7 +126,6 @@ The following Python packages are required to run the demo:
 
 ```
 numpy
-opencv-python
 opencv-contrib-python
 scipy
 joblib
