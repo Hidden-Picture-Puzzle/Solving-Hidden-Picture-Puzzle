@@ -1,0 +1,7 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ge-03,book,"446, 203",214.65,0.0000
+ge-03,glue,"327, 432",290.04,0.0000
+ge-03,scissors,"524, 595",9.01,0.3907
+ge-03,pencil,"289, 656",265.84,0.0000
+ge-03,ruler,"62, 274",126.87,0.0000
+ge-03,eraser,"72, 200",364.91,0.0000

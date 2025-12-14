@@ -1,0 +1,6 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ge-12,snail,"245, 685",1.12,0.7363
+ge-12,mushroom,"346, 659",2.12,0.5808
+ge-12,shoe,"103, 677",2.24,0.4320
+ge-12,lightbulb,"79, 546",2.00,0.6575
+ge-12,pencil,"535, 658",0.50,0.4786

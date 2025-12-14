@@ -1,0 +1,6 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ge-11,toothpaste,"158, 603",237.49,0.0000
+ge-11,cat,"473, 660",2.12,0.9183
+ge-11,toothbrush,"77, 530",1.58,0.4693
+ge-11,sprayer,"397, 106",2.24,0.4956
+ge-11,doorknob,"543, 254",1.41,0.3623

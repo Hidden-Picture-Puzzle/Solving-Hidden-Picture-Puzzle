@@ -1,0 +1,7 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ge-06,acorn,"630, 427",3.20,0.6076
+ge-06,hat,"523, 346",2.12,0.5388
+ge-06,grape,"617, 163",16.87,0.2927
+ge-06,spider,"45, 64",3.20,0.8641
+ge-06,carrot,"53, 296",600.57,0.0000
+ge-06,leaf,"658, 325",153.97,0.0000

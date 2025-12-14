@@ -1,0 +1,7 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ge-13,rollingpin,"511, 364",457.50,0.0000
+ge-13,duck,"48, 403",12.35,0.4097
+ge-13,boot,"351, 733",514.07,0.0000
+ge-13,pie,"114, 517",0.50,0.4677
+ge-13,pan,"452, 615",456.02,0.0000
+ge-13,hat,"203, 127",2.00,0.5399

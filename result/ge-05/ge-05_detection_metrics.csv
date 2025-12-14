@@ -1,0 +1,8 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ge-05,glasses,"374, 403",1.80,0.2847
+ge-05,icecream1,"85, 304",1.12,0.3673
+ge-05,clam,"24, 187",393.01,0.0000
+ge-05,hat,"100, 213",2.50,0.3566
+ge-05,icecream2,"252, 570",105.05,0.0000
+ge-05,watermelon,"360, 555",373.39,0.0000
+ge-05,flipflop,"338, 677",233.73,0.0000
