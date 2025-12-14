@@ -11,18 +11,25 @@ The goal of the project is to automatically identify and solve hidden picture pu
 ```
 .
 ├── dataset/
-│   ├── scene/                     # Hidden picture scene images
+│   ├── scenes/                    # Hidden picture scene images
+│       └── *.(JPG|jpg|jpeg)  
 │   ├── templates/                 # Object templates
-│   └── ground-truth/
-│       ├── answers.csv            # Ground-truth annotations
-│       └── *.png                  # Ground-truth answer images
-├── test/
-│   └── *.(jpg|jpeg|png)           # Two test scene images
+│       └── *.(JPG|jpg|jpeg)  
+│   └── ground-truth/              # Ground-truth for each category
+│       ├── ce-ground-truth.csv    
+│       ├── ch-ground-truth.csv
+│       ├── ge-ground-truth.csv
+│       ├── gh-ground-truth.csv  
+│       └── answer/                # Answer images to all category
 ├── result/
-│   └── */                         # Per-scene solving results
+│   ├── <scene_image>/             # One folder per scene image containing solving results
+│   ├── ge_batch_summary.csv       # Batch summary for 'ge' category
+│   └── gh_batch_summary.csv       # Batch summary for 'gh' category
+├── test/
+│   └── *.(Jpg|jpg)                # Two test scene images
 ├── test_result/
-│   ├── *.(jpg|jpeg|png)           # Solved test images
-│   └── metrics.csv                # Evaluation metrics
+│   ├── <scene_image>/             # Solved test images
+│   └── batch_summary.csv          # Evaluation metrics to test result
 └── demo.ipynb                     # Main demo notebook
 ```
 
